@@ -6,7 +6,7 @@
 
 ## Notre univers
 
-**VeryGG**, anciennement **Very-good-game**, est un studio indépendant de création de jeux vidéo pour mobile. Il construit une identité forte avant ses premières expériences.
+**Very-good-game**, est un studio indépendant de création de jeux pour mobile. Il construit une identité forte avant ses premières expériences.
 
 ## Aujourd'hui
 
