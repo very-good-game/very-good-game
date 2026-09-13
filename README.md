@@ -2,32 +2,16 @@
 
 ![VeryGG](assets/vgg.png)
 
-**VeryGG**, initialement nommé **Very-good-game**, est un studio de création de jeux vidéo pour mobile.
+**Créer des jeux mobiles simples à comprendre, agréables à découvrir et mémorables à jouer.**
 
-## Le projet
+## Notre univers
 
-VeryGG développe son identité et prépare sa présence en ligne autour de son activité de studio de jeux mobiles.
+**VeryGG**, anciennement **Very-good-game**, est un studio indépendant de création de jeux vidéo pour mobile. Il construit une identité forte avant ses premières expériences.
 
-Le projet comprend la présentation du studio et la préparation de son futur site web. Les jeux, leurs fonctionnalités et leurs dates de sortie seront précisés au fil du développement.
+## Aujourd'hui
 
-## Site web
+Le studio est en phase de préparation. Il précise sa vision, sa direction créative et sa présence en ligne.
 
-Le site a vocation à présenter le studio et à mettre en avant ses jeux. Sa structure et ses contenus restent à définir.
+## Demain
 
-## État d’avancement
-
-- Nom retenu : **VeryGG**.
-- Activité : création de jeux vidéo pour mobile.
-- Identité visuelle : en cours de finalisation.
-- Site web : en préparation.
-
-## Informations à compléter
-
-- Présentation de l’équipe.
-- Premiers jeux et plateformes ciblées.
-- Liens de téléchargement lorsque les jeux seront disponibles.
-- Coordonnées de contact et réseaux du studio.
-
-## Développement
-
-Aucun code applicatif ni environnement de développement n’est présent dans ce dossier à ce stade. Les instructions d’installation et de lancement seront ajoutées lorsque le développement du site ou des jeux commencera.
+VeryGG souhaite créer des jeux mobiles accessibles, soignés et pensés pour donner envie de revenir jouer.
